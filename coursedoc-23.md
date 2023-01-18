@@ -1,15 +1,14 @@
 # CRW3310: Intermediate Poetry Writing Workshop
 - **Course Number and Section:** CRW3310.0001
-- **Term:** Spring 2023
-- **Credit Hours:** 3
-
-
+- **Term:** Spring 2023  **Credit Hours:** 3
 - **Instructor:** Nikki Fragala Barnes, MFA
 - **Email:** nf.barnes@ucf.edu, and also via Webcourses (Canvas) inbox
 - **Office Hours:** via Zoom by appointment | also the hour after class in CB1 303
 - **Course Delivery Mode:** Main campus | Face to face
 - **Course Meeting:** Tuesday & Thursday 3-4:15 PM
 - **Location:** CB1 303 [Classroom Building 1, Room 303]
+
+---
 
 - **Office + Hours:** via Zoom by appointment | also the hour after class in CB1 303
 - Join URL:  https://ucf.zoom.us/j/2924599890?pwd=MUJQTjJ5cVZ6a1pmOHhydXJ2NzBaZz09
