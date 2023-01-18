@@ -66,11 +66,11 @@ I do not give incomplete grades.
 
 
 
-| Percentage  | Assignment Category
-| 20 | **Poem drafts with Evidence of Experimentation and Risk** 
-| 20 | **Building Literary Community** 
-| 20 | **Craft Knowledge** 
-| 40 | **Final Portfolio** 
+Percentage and Assignment Category
+- 20% **Poem drafts with Evidence of Experimentation and Risk** 
+- 20% **Building Literary Community** 
+- 20% **Craft Knowledge** 
+- 40% **Final Portfolio** 
 
 Late work is not accepted unless arrangements have been made with the instructor.
 
