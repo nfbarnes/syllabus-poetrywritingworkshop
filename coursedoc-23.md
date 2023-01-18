@@ -128,11 +128,13 @@ Wed Jan 25, 2023	Assignment Poem + Process: image poem in the news
 Fri Jan 27, 2023	Assignment Poem + Process: Poet's Choice
 
 Fri Feb 3, 2023	Assignment Revision + Process 1 (two poems)
+
 Quiz Week 4 Craft — Imagery
 
 Wed Feb 8, 2023	Assignment Poem + Process: concrete / shaped poem
 
 Fri Feb 10, 2023	Quiz Week 5 Craft — Figurative Language
+
 Assignment TPC Poem | prompt or poem-as-model
 
 Wed Feb 15, 2023	Assignment Poem + Process: video / media poem
@@ -140,6 +142,7 @@ Wed Feb 15, 2023	Assignment Poem + Process: video / media poem
 Thu Feb 16, 2023	Discussion Topic Submit your choice of Literary Element here
 
 Fri Feb 17, 2023	Quiz Week 6 Craft — Lineation and Form
+
 Assignment Craft writing: element (choice)
 
 Wed Feb 22, 2023	Assignment Poem + Process: Poet's Choice
@@ -151,16 +154,23 @@ Fri Feb 24, 2023	Quiz Week 7 Craft — Meter, Rhyme, Form
 Wed Mar 1, 2023	Discussion Topic Mini-Collection 3: concrete | media | choice
 
 Fri Mar 3, 2023	Quiz Week 8 Craft — Sound and Rhythm
+
 Assignment Experiment + Process
+
 Assignment Poem Project
 
 Tue Mar 14, 2023	Assignment Craft writing: shifts
 
 Wed Mar 22, 2023	Discussion Topic Mini-Collection 4: experiment | install | choice
+
 Assignment Poem + Process: Poet's Choice
+
 Discussion Topic Creative Community: Poet's Way in 3
 
-Wed Mar 29, 2023	Assignment Poem + Process: apply poem to another form of writingWed Apr 5, 2023	Assignment Revision + Process 2
+Wed Mar 29, 2023	Assignment Poem + Process: apply poem to another form of writing
+
+Wed Apr 5, 2023	Assignment Revision + Process 2
+
 Assignment Student Reading: Submit a video file by Monday or Attend class and read your work on Tuesday (treats provided!)
 
 Wed Apr 19, 2023	Assignment Class Zine
@@ -168,7 +178,9 @@ Wed Apr 19, 2023	Assignment Class Zine
 Mon Apr 24, 2023	Assignment Portfolio + Process
 
 Assignment Bonus / Extra Credit: Literary Analysis	 
+
 Assignment Bonus / Extra Credit: Poetry Review	 
+
 Assignment Conference
 
 ---
