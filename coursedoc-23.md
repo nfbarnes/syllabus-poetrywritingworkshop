@@ -67,7 +67,6 @@ I do not give incomplete grades.
 
 
 | Percentage  | Assignment Category
-|---|---|---|
 | 20 | **Poem drafts with Evidence of Experimentation and Risk** 
 | 20 | **Building Literary Community** 
 | 20 | **Craft Knowledge** 
@@ -79,26 +78,26 @@ I will be grading the individual poems based on challenges and prompts.  You wil
 
 You will include final revisions of four poems in the Final Portfolio. I will read your portfolio and evaluate the overall quality of the writing in it. The traits I generally associate with well-crafted poems include the following:
 
-- • clarity
-- • significant subject matter (as opposed to subjects that hold relatively little importance to the poem’s speaker and its readers — more on this later)
-- • diction that is fresh and precise
-- • effective use of concrete, specific language
-- • effective line breaks
-- • fresh, evocative metaphors
-- • effective use of stanza form
-- • subtlety
-- • effective use of sound 
-- • insight into the complexity of human experience (as opposed to poems that display a single, simple emotion or idea)
-- • compact, concise language
-- • proficient use of syntax and grammar
+- clarity
+- significant subject matter (as opposed to subjects that hold relatively little importance to the poem’s speaker and its readers — more on this later)
+- diction that is fresh and precise
+- effective use of concrete, specific language
+- effective line breaks
+- fresh, evocative metaphors
+- effective use of stanza form
+- subtlety
+- effective use of sound 
+- insight into the complexity of human experience (as opposed to poems that display a single, simple emotion or idea)
+- compact, concise language
+- proficient use of syntax and grammar
 
 PLEASE NOTE: You will pass this course if you complete the requirements in each of the four categories: experimentation, building community, craft knowledge, and portfolio. Generally, students who do well in this class demonstrate the following:
 
-- • Successful completion of all course requirements on time
-- • Improvement of writing through revision
-- • Writing that is consistently free of syntax, grammar, and spelling errors
-- • Consistent effort 
-- • Adherence to course policies
+- Successful completion of all course requirements on time
+- Improvement of writing through revision
+- Writing that is consistently free of syntax, grammar, and spelling errors
+- Consistent effort 
+- Adherence to course policies
 
 You'll notice that your Final Portfolio is worth 40% of your grade, which means that it may be difficult to tell what your final grade will be until I see how well you've written and revised your poems. (A=outstanding; B=good; C=satisfactory; D=unsatisfactory; F=failing). One thing this means, unfortunately, is that occasionally one may earn a grade lower than they/s/he might have if the grade were calculated solely on the quality of the work. You should take the course requirements and policies seriously. It is important that you work hard on your writing, and also work hard to be a good citizen of the class. The success of a creative writing course—success for each and all—depends largely on your effort given to the class.
 
