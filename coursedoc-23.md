@@ -10,13 +10,12 @@
 
 ---
 
-- **Office + Hours:** via Zoom by appointment | also the hour after class in CB1 303
-- Join URL:  https://ucf.zoom.us/j/2924599890?pwd=MUJQTjJ5cVZ6a1pmOHhydXJ2NzBaZz09
-- Meeting Room ID: 292 459 9890   Passcode: 2b584p
-
 - **UCF English Dept. (CAH):** TCH 250, 12796 Aquarius Agora Drive, Orlando, FL 32816
 - **UCF English Dept. Phone:** 407.823.5596
 - **UCF English Dept. Email:** english@ucf.edu
+- **Office + Hours:** via Zoom by appointment | also the hour after class in CB1 303
+- Join URL:  https://ucf.zoom.us/j/2924599890?pwd=MUJQTjJ5cVZ6a1pmOHhydXJ2NzBaZz09
+- Meeting Room ID: 292 459 9890   Passcode: 2b584p
   
 ---
 
@@ -29,4 +28,4 @@ Although there are no formulas or rules to follow to write good poems, we will e
 
 **Required Texts:**
 • A Poet’s Companion by Kim Addonizio and Dorianne Laux
-• additional materials provided via Webcourses
+and additional materials provided via Webcourses
