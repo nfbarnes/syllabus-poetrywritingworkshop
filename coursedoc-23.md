@@ -26,6 +26,5 @@
 - **Description of this section:** This is an intermediate level poetry workshop that will focus on the nature of poetry, the creative process, and the elements present in poems. We will read and discuss the work of contemporary poets, as well as writings on craft and criticism. We will also identify and actively engage with the literary community, our professional field, and consider the role of the poet. 
 Although there are no formulas or rules to follow to write good poems, we will establish some guidelines and discuss the qualities most often present in well-crafted poems, i.e., clarity, honesty, significance, control of diction, an attention to the sound of words, the effective use of figurative language, and the use of concrete and specific language.
 
-**Required Texts:**
-• A Poet’s Companion by Kim Addonizio and Dorianne Laux
+**Required Texts:** A Poet’s Companion by Kim Addonizio and Dorianne Laux
 and additional materials provided via Webcourses
