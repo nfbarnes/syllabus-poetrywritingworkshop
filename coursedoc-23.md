@@ -26,5 +26,10 @@
 - **Description of this section:** This is an intermediate level poetry workshop that will focus on the nature of poetry, the creative process, and the elements present in poems. We will read and discuss the work of contemporary poets, as well as writings on craft and criticism. We will also identify and actively engage with the literary community, our professional field, and consider the role of the poet. 
 Although there are no formulas or rules to follow to write good poems, we will establish some guidelines and discuss the qualities most often present in well-crafted poems, i.e., clarity, honesty, significance, control of diction, an attention to the sound of words, the effective use of figurative language, and the use of concrete and specific language.
 
-**Required Texts:** A Poet’s Companion by Kim Addonizio and Dorianne Laux
-and additional materials provided via Webcourses
+**Required Texts:** _A Poet’s Companion_ by Kim Addonizio and Dorianne Laux and additional materials provided via Webcourses
+
+Course outcomes:
+
+- **Weekly Readings, Class Discussion, Lecture, and Writing Exercises** Assigned readings should be complete prior to the class meeting. During class meeting time, we will engage with the content and each other via active discussion, in-class writing, and daily journals.
+- **Writing Poems with Process Papers** Students will build four mini-collections that consist of three poems each. Each poem will be submitted with its own process writing detailing choices, sequence, craft, and use of specific literary devices.
+- **Final Focused Portfolio.** In a final focused portfolio, students will propose a theme and structure using selected poems to revise from the semestser as well as one to two new poems to complete the theme. The final portfolio with revision statement is due during our scheduled final exam period and serves as the final evaluation for the course.
