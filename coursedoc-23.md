@@ -110,7 +110,41 @@ An understanding of language and the conventions of written English is a fundame
 
 In the event of disruptions during the semester or other circumstances necessitating updates to the syllabus, any amendments will be communicated both in class and through Webcourses.
 
-## General Policies
+---
+## Weekly Schedule
+
+---
+
+## Course Policies
+
+**Attendance:** This is a 3-credit hour course. You know that it meets on campus. If you travel, it is your responsibility to have internet access throughout the semester.
+
+**Academic Engagement Verification Activity: All faculty members are required to document students' academic activity at the beginning of each course. This is administratively mandated and is often linked to financial disbursements and other requirements.
+
+To satisfy this requirement, please complete the following academic activity before the end of the first week of classes (or as soon as possible after adding the course). Failure to do so can result in a delay in the disbursement of your financial aid. It is always due Friday of the first week of classes by 4:59 pm, local time.
+
+**E-mail and Phone Messages:** Please send Inbox messages via Webcourses and email. I will follow University procedures on responding in a timely manner.
+
+**Format for Assignments:** Since we’re using Webcourses/Canvas, you may paste or upload your poems and reading responses in the boxes on the appropriate page. Please format your work with care and follow posted guidelines. In my experience with publishing, literary agents, editors, and magazine readers may disregard your poem if you do not follow their format requirements. In this class, use these opportunities to practice.
+
+**Late Assignments and Make-Up Work:** Usually, I do not accept late work. Please be in touch with me along the way so we can work together. Turning assignments in late will affect your final grade. Assignments that form the basis for something we discuss in class on the day they are due cannot be turned in late or made up.
+
+Per university policy, you are allowed to submit make-up work (or an equivalent, alternate assignment) for authorized university-sponsored activities, religious observances, or legal obligations (such as jury duty). If this participation conflicts with your course assignments, I will offer a reasonable opportunity for you to complete missed assignments and/or exams. The make-up assignment and grading scale will be equivalent to the missed assignment and its grading scale. In the case of an authorized university activity, it is your responsibility to show me official documentation, such as a signed copy of the Program Verification Form for which you will be absent, prior to the class in which the absence occurs. In any of these cases, please contact me ahead of time to notify me of upcoming needs.
+
+If you have a MEDICAL EMERGENCY, please let me know as soon as possible so that I may be involved in determining how to help you.
+
+**Extra Credit:**  There may be extra credit points opportunities listed on assignments.
+
+Should events occur that make it difficult to meet the requirements of this class, it may become necessary for you to withdraw from classes. Please be aware of the University’s calendar and final drop deadlines. Click here to access it. There are many things in life more important than one semester of class/es.
+
+I will present and offer to you experienced, quality, professional instruction. There will likely not be as much time as we would all ideally prefer to workshop all the poems we want. However, I am always able to dialogue with you about your poems. If you have a specific question, please send me a Course Mail and ask. Let's say, for example, that one of your classmates says to cut the last stanza, and another says to leave that stanza in. You can't decide. If I don't place my vote in the discussions, and you really want my insight and opinion, please send me a direct message.
+
+Please send me an email immediately if you notice someone posting a rude response. I am generally gorilla-glued to my computer, but sometimes someone posts something terrible, and I don't see it right away.
+
+For online discussions, if I deem any comments inappropriate for any reason, I will delete them, and that posting will not count as being posted. For in-class discussions, please be respectful of each other as writers, and please also remember that we're not here to form each others' fan base. Let's get to work.
+
+
+## University Policies
 
 ### Academic Integrity
 
