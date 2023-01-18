@@ -39,7 +39,7 @@ Course outcomes:
 ## Course Objectives
 
 - Understand significant poems and poets with attention to craft
-- Develop a working knowledge of liteary devices through readings and applied writing
+- Develop a working knowledge of literary devices through readings and applied writing
 - Engage the breadth of poem forms, considering style, structure, and authorial choices
 - Build close reading skills through iterative annotations, working to incorporate both authoritative interpretations and develop your own insights
 - Analyze and critique published works and student-generated texts through process-focused responses
@@ -247,7 +247,7 @@ Students should also familiarize themselves with the procedures for academic mis
 
 ### Course Accessibility Statement
 
-This course is built with universal design for learning principles in mind: if you encounter challenges with any of the course materials, assignments, platforms, or requirements, please reach out for assistance, and know that additional support is always available regardles of documentation.
+This course is built with universal design for learning principles in mind: if you encounter challenges with any of the course materials, assignments, platforms, or requirements, please reach out for assistance, and know that additional support is always available regardless of documentation.
 
 Additionally, the University of Central Florida is committed to providing access and inclusion for all persons with disabilities. Students with disabilities who need access to course content due to course design limitations should contact the professor as soon as possible. Students should also connect with [Student Accessibility Services (SAS)](http://sas.sdes.ucf.edu/) (Ferrell Commons 185, sas@ucf.edu, phone 407-823-2371). For students connected with SAS, a Course Accessibility Letter may be created and sent to professors, which informs faculty of potential course access and accommodations that might be necessary and reasonable. Determining reasonable access and accommodations requires consideration of the course design, course learning objectives and the individual academic and course barriers experienced by the student. Further conversation with SAS, faculty and the student may be warranted to ensure an accessible course experience.
 
